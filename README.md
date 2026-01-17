@@ -49,7 +49,7 @@ Average revenue generated per order.
 **Why it matters:**  
 Improving AOV directly increases revenue without acquiring new customers.
 
-![Average Order Value](screenshots/aov.png)
+![Average Order Value](img/aov.png)
 
 ---
 
@@ -61,7 +61,7 @@ Revenue contribution from the top 20% highest-spending customers.
 **Why it matters:**  
 Highlights dependency risk and the importance of retaining high-value customers.
 
-![Top 20 Percent Revenue](screenshots/top_20_revenue.png)
+![Top 20 Percent Revenue](img/top_20_revenue.png)
 
 ---
 
@@ -73,7 +73,7 @@ Frequently purchased product combinations using self-joins on order data.
 **Why it matters:**  
 Supports bundle creation, cross-selling strategies, and recommendation systems.
 
-![Product Pair Analysis](screenshots/product_pair_count.png)
+![Product Pair Analysis](img/product_pair_count.png)
 
 ---
 
@@ -85,7 +85,7 @@ Tracks how many customers from a given cohort return in subsequent months.
 **Why it matters:**  
 Reveals customer drop-off patterns and long-term retention behavior.
 
-![Customer Cohort Retention](screenshots/cohort_retention.png)
+![Customer Cohort Retention](img/cohort_retention.png)
 
 ---
 
@@ -97,7 +97,7 @@ Segmentation of customers into High, Medium, and Low value groups based on CLV.
 **Why it matters:**  
 Enables differentiated marketing strategies and resource allocation.
 
-![CLV Segmentation](screenshots/clv_segmentation.png)
+![CLV Segmentation](img/clv_segmentation.png)
 
 ---
 
@@ -109,7 +109,7 @@ Average number of days between consecutive purchases for each customer.
 **Why it matters:**  
 Identifies highly engaged customers versus dormant or low-engagement users.
 
-![Purchase Velocity](screenshots/purchase_velocity.png)
+![Purchase Velocity](img/purchase_velocity.png)
 
 ---
 
