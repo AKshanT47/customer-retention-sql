@@ -61,7 +61,7 @@ Revenue contribution from the top 20% highest-spending customers.
 **Why it matters:**  
 Highlights dependency risk and the importance of retaining high-value customers.
 
-![Top 20 Percent Revenue](img/top_20_revenue.png)
+![Top 20 Percent Revenue](img/top_20_per.png)
 
 ---
 
@@ -73,7 +73,7 @@ Frequently purchased product combinations using self-joins on order data.
 **Why it matters:**  
 Supports bundle creation, cross-selling strategies, and recommendation systems.
 
-![Product Pair Analysis](img/product_pair_count.png)
+![Product Pair Analysis](img/pair_count.png)
 
 ---
 
@@ -85,7 +85,7 @@ Tracks how many customers from a given cohort return in subsequent months.
 **Why it matters:**  
 Reveals customer drop-off patterns and long-term retention behavior.
 
-![Customer Cohort Retention](img/cohort_retention.png)
+![Customer Cohort Retention](img/Customer_cohort_Retention.png)
 
 ---
 
@@ -97,7 +97,7 @@ Segmentation of customers into High, Medium, and Low value groups based on CLV.
 **Why it matters:**  
 Enables differentiated marketing strategies and resource allocation.
 
-![CLV Segmentation](img/clv_segmentation.png)
+![CLV Segmentation](img/Customer_Lifetime_value_segmentaion.png)
 
 ---
 
@@ -109,7 +109,7 @@ Average number of days between consecutive purchases for each customer.
 **Why it matters:**  
 Identifies highly engaged customers versus dormant or low-engagement users.
 
-![Purchase Velocity](img/purchase_velocity.png)
+![Purchase Velocity](img/Customer_Purchase_Velocity.png)
 
 ---
 
