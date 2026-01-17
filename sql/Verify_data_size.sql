@@ -1,0 +1,4 @@
+SELECT COUNT(*) FROM Customers;
+SELECT COUNT(*) FROM Orders;
+SELECT COUNT(*) FROM Order_Items;
+SELECT COUNT(*) FROM Products;
