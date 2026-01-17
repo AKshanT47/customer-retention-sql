@@ -1,0 +1,22 @@
+WITH first_order AS (
+    SELECT 
+        customer_id,
+        MIN(order_date) AS first_order_date
+    FROM Orders
+    GROUP BY customer_id
+),
+orders_with_cohort AS (
+    SELECT 
+        o.customer_id,
+        DATE_FORMAT(f.first_order_date, '%Y-%m') AS cohort_month,
+        DATE_FORMAT(o.order_date, '%Y-%m') AS order_month
+    FROM Orders o
+    JOIN first_order f ON o.customer_id = f.customer_id
+)
+SELECT 
+    cohort_month,
+    order_month,
+    COUNT(DISTINCT customer_id) AS retained_customers
+FROM orders_with_cohort
+GROUP BY cohort_month, order_month
+ORDER BY cohort_month, order_month;

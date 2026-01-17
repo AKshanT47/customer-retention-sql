@@ -1,5 +1,5 @@
-• Repeat customers contribute a significant portion of total revenue.
-• Average Order Value indicates potential for upselling strategies.
-• Revenue is concentrated in a small number of products.
-• Customer retention has higher revenue impact than acquisition.
-• Business should focus on loyalty programs and targeted promotions.
+• Revenue is highly concentrated among top 20% customers, indicating dependency risk.
+• Cohort analysis shows customer drop-off after the first purchase month.
+• High-value customers purchase more frequently with shorter gaps.
+• Certain product pairs show strong cross-sell potential.
+• Retention-focused strategies will deliver higher ROI than acquisition.

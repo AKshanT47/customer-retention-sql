@@ -1,0 +1,82 @@
+[
+  {
+    "customer_name": "Rahul Sharma",
+    "lifetime_value": "207500.00"
+  },
+  {
+    "customer_name": "Anita Verma",
+    "lifetime_value": "130000.00"
+  },
+  {
+    "customer_name": "Aman Gupta",
+    "lifetime_value": "27900.00"
+  },
+  {
+    "customer_name": "Neha Singh",
+    "lifetime_value": "51500.00"
+  },
+  {
+    "customer_name": "Rohit Mehta",
+    "lifetime_value": "74100.00"
+  },
+  {
+    "customer_name": "Pooja Iyer",
+    "lifetime_value": "115500.00"
+  },
+  {
+    "customer_name": "Karan Malhotra",
+    "lifetime_value": "22000.00"
+  },
+  {
+    "customer_name": "Sneha Patil",
+    "lifetime_value": "21000.00"
+  },
+  {
+    "customer_name": "Arjun Rao",
+    "lifetime_value": "46300.00"
+  },
+  {
+    "customer_name": "Simran Kaur",
+    "lifetime_value": "19500.00"
+  },
+  {
+    "customer_name": "Vikas Jain",
+    "lifetime_value": "30800.00"
+  },
+  {
+    "customer_name": "Nisha Kapoor",
+    "lifetime_value": "12000.00"
+  },
+  {
+    "customer_name": "Suresh Reddy",
+    "lifetime_value": "24500.00"
+  },
+  {
+    "customer_name": "Priya Nair",
+    "lifetime_value": "58500.00"
+  },
+  {
+    "customer_name": "Mohit Agarwal",
+    "lifetime_value": "19500.00"
+  },
+  {
+    "customer_name": "Ritika Bose",
+    "lifetime_value": "8800.00"
+  },
+  {
+    "customer_name": "Deepak Yadav",
+    "lifetime_value": "32000.00"
+  },
+  {
+    "customer_name": "Ayesha Khan",
+    "lifetime_value": "32500.00"
+  },
+  {
+    "customer_name": "Nitin Verma",
+    "lifetime_value": "18800.00"
+  },
+  {
+    "customer_name": "Kavita Joshi",
+    "lifetime_value": "57000.00"
+  }
+]

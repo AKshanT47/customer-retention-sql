@@ -1,0 +1,34 @@
+[
+  {
+    "customer_id": 1,
+    "avg_days_between_orders": "23.0000"
+  },
+  {
+    "customer_id": 2,
+    "avg_days_between_orders": "31.3333"
+  },
+  {
+    "customer_id": 3,
+    "avg_days_between_orders": "47.5000"
+  },
+  {
+    "customer_id": 4,
+    "avg_days_between_orders": "89.0000"
+  },
+  {
+    "customer_id": 5,
+    "avg_days_between_orders": "44.0000"
+  },
+  {
+    "customer_id": 6,
+    "avg_days_between_orders": "53.0000"
+  },
+  {
+    "customer_id": 8,
+    "avg_days_between_orders": "51.0000"
+  },
+  {
+    "customer_id": 9,
+    "avg_days_between_orders": "51.0000"
+  }
+]

@@ -1,0 +1,5 @@
+SELECT 
+    SUM(p.price * oi.quantity) / COUNT(DISTINCT o.order_id) AS AOV
+FROM Orders o
+JOIN Order_Items oi ON o.order_id = oi.order_id
+JOIN Products p ON oi.product_id = p.product_id;

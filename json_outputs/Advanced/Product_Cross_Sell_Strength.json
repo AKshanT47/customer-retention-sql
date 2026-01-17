@@ -1,0 +1,62 @@
+[
+  {
+    "product_1": "Laptop",
+    "product_2": "Headphones",
+    "pair_count": "3"
+  },
+  {
+    "product_1": "Laptop",
+    "product_2": "Bluetooth Speaker",
+    "pair_count": "3"
+  },
+  {
+    "product_1": "Smart Watch",
+    "product_2": "Mouse",
+    "pair_count": "3"
+  },
+  {
+    "product_1": "Mobile",
+    "product_2": "Keyboard",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Mobile",
+    "product_2": "Mouse",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Mobile",
+    "product_2": "Bluetooth Speaker",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Mobile",
+    "product_2": "Power Bank",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Headphones",
+    "product_2": "Monitor",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Smart Watch",
+    "product_2": "Keyboard",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Keyboard",
+    "product_2": "Monitor",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Mouse",
+    "product_2": "Monitor",
+    "pair_count": "2"
+  },
+  {
+    "product_1": "Tablet",
+    "product_2": "Power Bank",
+    "pair_count": "2"
+  }
+]

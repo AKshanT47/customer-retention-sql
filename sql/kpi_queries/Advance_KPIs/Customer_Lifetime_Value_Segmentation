@@ -1,0 +1,19 @@
+WITH customer_clv AS (
+    SELECT 
+        c.customer_id,
+        SUM(p.price * oi.quantity) AS clv
+    FROM Customers c
+    JOIN Orders o ON c.customer_id = o.customer_id
+    JOIN Order_Items oi ON o.order_id = oi.order_id
+    JOIN Products p ON oi.product_id = p.product_id
+    GROUP BY c.customer_id
+)
+SELECT 
+    customer_id,
+    clv,
+    CASE 
+        WHEN clv >= 100000 THEN 'High Value'
+        WHEN clv >= 50000 THEN 'Medium Value'
+        ELSE 'Low Value'
+    END AS customer_segment
+FROM customer_clv;

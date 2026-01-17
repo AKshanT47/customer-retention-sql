@@ -1,0 +1,32 @@
+[
+  {
+    "cohort_month": "2023-04",
+    "order_month": "2023-04",
+    "retained_customers": "9"
+  },
+  {
+    "cohort_month": "2023-04",
+    "order_month": "2023-05",
+    "retained_customers": "2"
+  },
+  {
+    "cohort_month": "2023-04",
+    "order_month": "2023-06",
+    "retained_customers": "7"
+  },
+  {
+    "cohort_month": "2023-04",
+    "order_month": "2023-07",
+    "retained_customers": "5"
+  },
+  {
+    "cohort_month": "2023-05",
+    "order_month": "2023-05",
+    "retained_customers": "8"
+  },
+  {
+    "cohort_month": "2023-06",
+    "order_month": "2023-06",
+    "retained_customers": "3"
+  }
+]
